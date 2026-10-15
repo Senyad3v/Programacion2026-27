@@ -1,2 +1,2 @@
 # Programacion2026-27
-Grupo para Alejandro DOnoso, Alejandro Fernández, David Fernández y Rodrigo Fernández
+Aquí guardo los trabajos que he ido haciendo en la asignatura de Programación de DAM-1 2026-2027
